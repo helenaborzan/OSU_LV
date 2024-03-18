@@ -28,9 +28,6 @@ plt.ylabel('CO2 Emissions (g/km)')
 plt.show()
 
 
-#plt.scatter(data['Fuel Consumption City (L/100km)'], data['CO2 Emissions (g/km)'], labels=data['Fuel Type'], c=['green', 'red', 'blue', 'yellow'])
-
-
 #Pomocu kutijastog dijagrama prikažite razdiobu izvangradske potrošnje s obzirom na tip ´
 #goriva. Primjecujete li grubu mjernu pogrešku u podacima?
 
